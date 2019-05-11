@@ -1,2 +1,18 @@
-# react-boilerplate
-A React Boilerplate . You can install and use it now! 
+## React  Boilerplate
+Install me now and save your time 
+##  A Boilerplate with 
+
+ - React
+ - Babel
+ - Webpack
+ - SCSS/CSS
+ - ...
+
+## Install
+` git clone https://github.com/quangpl/react-boilerplate `
+` cd react-boilerplate`
+` npm install`
+`npm start`
+
+*I will update twice a month .*
+
